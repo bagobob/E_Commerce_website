@@ -1,0 +1,181 @@
+@charset "UTF-8";
+
+/* font-family: 'PT Serif', serif; */
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+   /* background-image: url(img/fond3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    background-color: #2C3E50;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+/*header*/
+.header{
+    background-image: url(img/fond2.jpg);
+    height: 70px;
+    line-height: 70px;
+}
+.ban{
+    background-size: 2%;
+}
+.logo{
+    color: #ffffff;
+    text-align: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    float: left;
+}
+.barre{
+    background-color: red;
+    text-emphasis-color: white;
+    text-decoration-color: white;
+}
+.menu{
+    float: right;
+}
+.menu2{
+    text-align: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+.menu a{
+    color: #ffffff;
+    margin-right:50px;
+}
+.menu1{
+    color: #ffffff;
+}
+.menu a:hover{
+    color:#2C3E50;
+}
+
+.search {
+    width: 400px;
+}
+/* la baniere */
+
+.search2 {
+    padding-left: 0px;
+    padding-top: 0px;
+    display: inline;
+    border: 0px;
+}
+
+.table{
+    background-color: #E9E1DF;
+}
+.table2{
+    background-color: #ffffff;
+}
+.image{
+    height: 350px;
+    width: 350px;
+}
+.image2{
+    height: 250px;
+    width: 250px;
+    
+}
+.footer{
+    background-color: #eee;
+}
+.texte{
+    text-emphasis-color: white;
+    text-decoration-color: white;
+    background-color: #EAEDF7;
+}
+.fond{
+    background-color: rgb(255, 253, 253);
+    
+}
+.taille{
+    height: 25%;
+}
+.bordure{
+    background-image: url(img/ecom2.png);
+}
+.fondimage{
+    background-image: url(img/ecom2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;    
+}
+
+.marge{
+    padding: 800px 0px 800px;
+    background-color: #eee;
+}
+
+.marge2{
+    margin: 10px 10px 10px;
+}
+
+.marge3{
+    margin: 50px 650px 0px;
+}
+
+.marge4{
+    margin: 50px 450px 0px;
+}
+#menu a { 
+	display:block; 
+	color: #fff; 
+	text-decoration:none;
+}
+#menu > li,
+#menu > li li {
+    position: relative;
+	display:inline-block;
+	width: 110px;
+	padding: 6px 15px;
+	background-color: #777;
+	background-image: linear-gradient(#aaa, #888 50%, #777 50%,#999);
+}
+#menu > li li { background: transparent none; }
+#menu > li li a { color: #444; }
+#menu > li li:hover { background:#eee; }
+#menu > li:first-child {
+	border-right: 1px solid #777;
+	border-radius: 8px 0 0 8px;
+}
+#menu > li + li {
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #777;
+}
+#menu > li:last-child {
+	border-right: 0;
+	border-left: 1px solid #aaa;
+	border-radius: 8px 8px 8px 8px ;
+}
+#menu > li:hover {
+	background-color: #999;
+	background-image: linear-gradient(#ccc, #aaa 50%, #999 50%,#bbb);
+}
+/* (presque) fin de la partie positionnement/déco */
+/* dans cette déclaration, on fixe le max-height */
+#menu ul {
+	position: absolute;
+	top: 2em; left: 0;
+	max-height:0em;	
+	margin: 0; padding: 0;
+	background-color: #ddd;
+	background-image: linear-gradient(#fff,#ddd);
+	overflow: hidden;
+	transition: 1s max-height 0.3s;
+	border-radius: 0 0 8px 8px;
+}
+/* ici on change la valeur de max-height au :hover */
+#menu > li:hover ul {
+	/* à adapter, le minimum est le meilleur mais voyez large 😉 */
+	max-height: 15em;
+}
+
+.tab{
+    margin: 0px 150px 0px ;
+}
