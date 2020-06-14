@@ -18,6 +18,6 @@ body {
     margin-top: -85px;
   }
   .fond{
-      background-image: url(img/fond4.jpg);
+      background-image: url(../img/fond4.jpg);
       background-size: 90%;
   }

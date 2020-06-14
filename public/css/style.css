@@ -18,7 +18,7 @@ a, a:hover{
 }
 /*header*/
 .header{
-    background-image: url(img/fond2.jpg);
+    background-image: url(../img/fond2.jpg);
     height: 70px;
     line-height: 70px;
 }
@@ -27,7 +27,7 @@ a, a:hover{
 }
 .logo{
     color: #ffffff;
-    text-align: uppercase;
+    text-align: center;
     font-weight: bold;
     letter-spacing: 1px;
     float: left;
@@ -41,7 +41,7 @@ a, a:hover{
     float: right;
 }
 .menu2{
-    text-align: uppercase;
+    text-align: center;
     letter-spacing: 1px;
     color: #ffffff;
 }
@@ -99,10 +99,10 @@ a, a:hover{
     height: 25%;
 }
 .bordure{
-    background-image: url(img/ecom2.png);
+    background-image: url(../img/ecom2.png);
 }
 .fondimage{
-    background-image: url(img/ecom2.png);
+    background-image: url(../img/ecom2.png);
     background-size: 100%;
     background-repeat: no-repeat;    
 }

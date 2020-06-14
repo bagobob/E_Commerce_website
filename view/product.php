@@ -23,7 +23,7 @@
         <nav class="menu">
             <a href="signin.php"> <button type="button" class="btn btn-danger"> Identifier-vous
                     <svg class="bi bi-person-circle" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z">  </path>
+                        <path d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"> </path>
                         <path fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"> </path>
                         <path fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"> </path>
                     </svg>
@@ -81,7 +81,7 @@
             <div class="row marge2">
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/aorus_17.png">
+                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/hp.webp">
                     <br> <em> Nomproduit</em>
                     <br>
                     <h5>
@@ -95,7 +95,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/iphone_xr.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/aero.jpg">
                     <br> <em>Nomproduit</em>
                     <br>
                     <h5>
@@ -110,7 +110,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/tv.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/tv4.jpg">
                     <br> <em> Nomproduit</em>
                     <br>
                     <h5>
@@ -126,7 +126,7 @@
             <div class="row">
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/shoes/air_nike1_lv8.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/shoes/yeezy_350.webp">
                     <br> <em> Nomproduit</em> <br>
                     <h5>
                         Prix: 150$
@@ -139,7 +139,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/shoes/undefeated.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/shoes/vans_old_skool_flame.jpg">
                     <br> <em> Nomproduit</em> <br>
                     <h5>
                         Prix: 150$
@@ -152,7 +152,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/aspir.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/informatique/lg_g5.png">
                     <br> <em> Nomproduit</em> <br>
                     <h5>
                         Prix: 150$
@@ -168,7 +168,7 @@
             <div class="row">
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/fer4.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/fer5.jpg">
                     <br> <em> Nomproduit</em> <br>
                     <h5>
                         Prix: 150$
@@ -182,7 +182,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/frigot.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/frigot2.jpg">
                     <br> <em> Nomproduit</em> <br>
                     <h5>
                         Prix: 150$
@@ -195,7 +195,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <br>
-                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/lave.jpg">
+                    <img class="text-left container rounded float-center image2" src="../public/img/electromenager/lave2.jpg">
                     <br> <em>Nomproduit</em> <br>
                     <h5>
                         Prix: 150$
@@ -209,7 +209,7 @@
             </div>
             <br>
             <div class="col-lg-12 text-center">
-                <img class="text-left container rounded float-center image2" src="../public/img/informatique/hp_envy_4.jpg">
+                <img class="text-left container rounded float-center image2" src="../public/img/informatique/sony_alpha.jpg">
                 <br> <em> Nomproduit</em> <br>
                 <h5>
                     Prix: 150$
@@ -227,8 +227,8 @@
                         <path fill-rule="evenodd" d="M8.354 1.646a.5.5 0 0 1 0 .708L2.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"> </path>
                         <path fill-rule="evenodd" d="M12.354 1.646a.5.5 0 0 1 0 .708L6.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"> </path>
                     </svg>
+                    <a href="product.php">1-</a>
 
-                    <a href="product2.php">2-</a>
                     <a href="#">3-</a>
                     <a href="#">4</a>
                     <svg class="bi bi-chevron-double-right" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
